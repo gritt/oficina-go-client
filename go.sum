@@ -1,0 +1,4 @@
+github.com/gritt/hello v1.0.0 h1:4FrHG1u9i+lk7CuOZAVfaMcW8bGcKjyZB8tqpS0ogNg=
+github.com/gritt/hello v1.0.0/go.mod h1:mLFIE/DlbV4jXeJ8P4Sbg7PnHsrmetCbXrnJH2TeVlA=
+github.com/gritt/hello/v2 v2.0.0 h1:k934JvTeI2PmeCIs0AFFzcTxhtUBkzMuwkvs+1Q8MwA=
+github.com/gritt/hello/v2 v2.0.0/go.mod h1:WmsXvfHyNpj7VFZMplhIZndXf/Btp8C08ujc/QWGiAg=
